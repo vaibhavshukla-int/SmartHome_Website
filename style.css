@@ -521,7 +521,8 @@ footer ul li a:hover {
 
 /* ==================== MEDIA QUERIES FOR TABLETS ====================*/
 
-@media screen and (max-width: 978px) {
+/* max-width:1024px */
+@media screen and (max-width: 1280px) {
   /* general class */
   .container {
     width: var(--container-width-tablet);
